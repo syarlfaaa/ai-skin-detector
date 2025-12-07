@@ -1,4 +1,4 @@
-#i built the Gradio in colab and hosted it after that (using a dataset to detect skin types)
+#i built the gradio in colab and hosted it after that (using a dataset to detect skin types)
 
 GRADIO_URL = "https://huggingface.co/spaces/whocataleya/ai-skin-detector" 
 
