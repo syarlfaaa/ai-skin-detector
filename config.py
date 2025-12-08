@@ -8,5 +8,5 @@ USERS_FILE = "users.json"
 GMAIL_USER = "urgmail6@gmail.com"
 GMAIL_PASSWORD = "1234 5678 9123"
 
-# OTP storage (in-memory)
+# otp storage (in memo)
 OTP_STORE = {}
